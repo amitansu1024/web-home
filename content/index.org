@@ -1,0 +1,11 @@
+#+author: Amitansu
+#+title: Personal Website
+
+
+* About me 
+  I am just a lazy guy who thought it would be more efficient to go forward and make a website which would have all my links and in which I would rant my thoughts. 2023 here we go.
+
+* Movies
+  [[file:movieslist.org][My movies list]]
+
+
