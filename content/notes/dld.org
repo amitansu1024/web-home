@@ -27,6 +27,10 @@
 4. Diode Transistor Logic(DTL)
 5. High Threshold Logic(HTL)
 6. Integrated Injection Logic(IIL)
+*** Unsaturated bipolar logic family
+    In this family the transistor used in IC is not driven into saturation, this increases the speed of operation.
+1. Schottky TTL
+2. Emitter Coupled Logic(ECL)
 
 ** MOS Families 
    - The MOS family fabricates the MOS field effect transistors(MOSFETS)

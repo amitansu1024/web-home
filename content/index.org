@@ -9,3 +9,5 @@
   [[file:movieslist.org][My movies list]]
 
 
+* Notes
+  [[file:notes/dld.org][DLD]]
