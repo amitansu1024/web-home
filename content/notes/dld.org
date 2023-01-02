@@ -1,0 +1,39 @@
+#+author: Amitansu
+#+title: Digital Logic and System
+
+* Logic Gates
+  A electronic circuit that has two or more inputs but only one output. 
+
+  A -------> 
+  B ------->    D   ---------> output
+  C -------> 
+                            
+
+* Digital Families 
+  A logic family is a collectin of different integrated circuit chips that have similar input, output, and internal circuit characerisctcs buty they perform different logic gate functions such as AND, OR, NOT, etc.
+  The two basic techniques for manufacturing ICs are: 
+  - Bipolar Technology
+  - Metal oxide semiconductor (MOS) Technology
+** Bipolar Families
+   The bipolar families of logic circuits are constructed from bipolar transistors on the chip. There are three basic families in this category: 
+   - Diode transistor logic(DTL) uses diodes and transistors
+   - Transistor Transistor logic(TTL) uses transistors exclusively, popular in SSI and MSI
+   - Emitter coupled logic(ECL) is the fastest logic family which is used for high-speed application.
+*** Saturated Bipolar Logic Family 
+    In this they are driver into saturation, it is used at the switch and operated in the saturation and cutoff regions.
+1. Transistor-Transistor Logic(TTL)
+2. Resistor-Transistor Logic(RTL)
+3. Direct Coupled Transistor Logic(DCTL)
+4. Diode Transistor Logic(DTL)
+5. High Threshold Logic(HTL)
+6. Integrated Injection Logic(IIL)
+
+** MOS Families 
+   - The MOS family fabricates the MOS field effect transistors(MOSFETS)
+   - There are 3 logic families PMOS(p-channel MOSFETS), NMOS(n-channel MOSFET) and CMOS(Complementary MOSFET) family. 
+   - PMOS is the oldest and slowest while NMOS is used for LSI for microprocessors and memories. 
+   - CMOS uses a push-pull arrangement of n-channel and p-channle MOSFETs is used where low power consumption is a priority such as pocket calculators.
+
+
+* LINKS
+  https://www.electricveda.com/digital-electronics/logic-families-in-digital-electronics-ttl-cmos-and-ecl
