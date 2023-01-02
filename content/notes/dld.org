@@ -38,6 +38,15 @@
    - PMOS is the oldest and slowest while NMOS is used for LSI for microprocessors and memories. 
    - CMOS uses a push-pull arrangement of n-channel and p-channle MOSFETs is used where low power consumption is a priority such as pocket calculators.
 
+** Characteristics of Digital ICs
+   Various characerisctics of a logic family are given below: 
+1. Operating Speed: 
+2. Fan-In: It is defined as the number of input sthat it can handle properly. 
+3. Fan-Out: Also known as loading factor, it is defined as the maximum number of standard logic inputs that an output can drive reliably. 
+4. Power Dissipation: This is the amount of power dissipated in an IC. It is determined by the current, /Icc/, that it draws from the /Vcc/ supply. The power P is equal to /Vcc/*/Icc/, where /Icc/ is the average value of /Icc(0)/ and /Icc(1)/. The power is specified in mW. 
+5. 
 
 * LINKS
-  https://www.electricveda.com/digital-electronics/logic-families-in-digital-electronics-ttl-cmos-and-ecl
+  https://www.electricveda.com/digital-electronics/logic-families-in-digital-electronics-ttl-cmos-and-ecl 
+  https://easyelectronics.co.in/classification-and-characteristics-of-logic-families/
+  [[https://electronicspani.com/characteristics-and-comparison-of-digital-ic/][Characteristics and Comparision of digital Ics]]
